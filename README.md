@@ -1,3 +1,3 @@
 # Project
 
-These projects were made by watching tutorials and following those tutorials step by step.
+These projects were developed by following guided tutorials and applying the concepts learned through hands-on practice.
